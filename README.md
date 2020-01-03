@@ -21,6 +21,7 @@
 	（1）使用Visual Studio2017打开项目文件。
 	
 	（2）打开解决方案资源管理器，打开其中的App.config文件。修改其中的Data Source配置信息为本地数据库服务器的名称。
+	![xxx](https://github.com/kleinlsl/Factory-material-management/blob/master/5.image/doc/01.png)
  
 	（3）点击Visual Studio2017的运行按钮即可运行。
 
