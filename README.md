@@ -36,13 +36,13 @@
 
 ##### 系统用户表
 
-        用户ID    密码      系统管理    入库管理    出库管理    物资管理
-        Test001   Test001	是   否           否        否
-        Test002   Test002	否	是	否	否
-        Test003   Test003	否	否	是	否
-        Test004   Test004	否	否	否	是
-        admin     admin	是	是	是	是
-		
+	用户ID	密码	所具有的权限
+			系统管理	入库管理	出库管理	物资管理
+	Test001	Test001	是	否	否	否
+	Test002	Test002	否	是	否	否
+	Test003	Test003	否	否	是	否
+	Test004	Test004	否	否	否	是
+	admin	admin	是	是	是	是
 
 
 
