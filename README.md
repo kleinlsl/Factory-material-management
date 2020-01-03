@@ -2,7 +2,7 @@
 一个较为全面的工厂物资管理系统，其中包含人脸识别模块
 
 
-### 工厂物资管理系统使用手册
+## 工厂物资管理系统使用手册
 
 
 #### 配置源程序
@@ -32,7 +32,7 @@
 ![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/doc/02.png)
 	
 	（2）修改其中的Data Source配置信息为本地数据库服务器的名称或远程数据库服务器的名称。
-![01.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/doc/01.png)
+![03.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/doc/01.png)
 	
 	（3）双击该目录下的以下应用即可完成配置：
  
@@ -52,6 +52,7 @@
 
 ##### 系统功能结构
 
+![04.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/doc/03.png)
  
 ##### 操作注意事项
 	1.	使用本系统需要先将配置源程序部分完成，否则将无法使用。
@@ -63,3 +64,22 @@
 		b)	保证sqlserver 服务器远程登陆端口开启
 		c)	若失败请关闭Windows防火墙后重新尝试
 		d)	请确保远程服务器名称书写正确：ip，端口号。Eg：192.168.1.101,8080
+
+
+
+## PPT展示
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%871.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%872.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%873.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%874.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%875.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%876.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%877.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%878.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%879.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%8710.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%8711.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%8712.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%8713.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%8714.JPG)
+![02.png](https://github.com/kleinlsl/Factory-material-management/blob/master/image/ppt/%E5%B9%BB%E7%81%AF%E7%89%8715.JPG)
